@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react_adaptive_homepage/static/css/main.562f8b3c.css",
+    "main.js": "/react_adaptive_homepage/static/js/main.6fa29057.js",
+    "static/js/787.96439c50.chunk.js": "/react_adaptive_homepage/static/js/787.96439c50.chunk.js",
+    "static/media/01.jpg": "/react_adaptive_homepage/static/media/01.1bc5bb0bcc3576232431.jpg",
+    "static/media/image.jpg": "/react_adaptive_homepage/static/media/image.49c3aa06efdb2a2b9bac.jpg",
+    "static/media/04.jpg": "/react_adaptive_homepage/static/media/04.f69b5af312921103dc53.jpg",
+    "static/media/03.jpg": "/react_adaptive_homepage/static/media/03.4448b7060c9199e3bb83.jpg",
+    "static/media/02.jpg": "/react_adaptive_homepage/static/media/02.52c1e9968cbd3927a62a.jpg",
+    "static/media/01.svg": "/react_adaptive_homepage/static/media/01.885fed088faad2c8005519af14b2d6a9.svg",
+    "static/media/05.svg": "/react_adaptive_homepage/static/media/05.b72c76168671a30873fa3b80d3a799cd.svg",
+    "static/media/02.svg": "/react_adaptive_homepage/static/media/02.ffc147f3e5609c3c4370a04fa0cf0e48.svg",
+    "static/media/03.svg": "/react_adaptive_homepage/static/media/03.e2ac42c7ef0c564aa39696b1c5639179.svg",
+    "static/media/04.svg": "/react_adaptive_homepage/static/media/04.f644208a0693f142bd63016c248ea31b.svg",
+    "static/media/dekor.svg": "/react_adaptive_homepage/static/media/dekor.bf02fa6fa2f0e4d08af3.svg",
+    "static/media/logo.svg": "/react_adaptive_homepage/static/media/logo.f5f926942cc237bd35c2ef557935da0f.svg",
+    "static/media/rating.svg": "/react_adaptive_homepage/static/media/rating.28c344ef95342d14c3ebb3c4cea831b9.svg",
+    "static/media/cart.svg": "/react_adaptive_homepage/static/media/cart.89a9f41e941121d82f9c.svg",
+    "index.html": "/react_adaptive_homepage/index.html",
+    "static/media/li.svg": "/react_adaptive_homepage/static/media/li.a2dfe54917a84bf746bb.svg",
+    "main.562f8b3c.css.map": "/react_adaptive_homepage/static/css/main.562f8b3c.css.map",
+    "main.6fa29057.js.map": "/react_adaptive_homepage/static/js/main.6fa29057.js.map",
+    "787.96439c50.chunk.js.map": "/react_adaptive_homepage/static/js/787.96439c50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.562f8b3c.css",
+    "static/js/main.6fa29057.js"
+  ]
+}
